@@ -1,3 +1,12 @@
+# React Calc 
+
+> $ npm install -g yarn<br>- Se ainda não tiver o yarn<br>
+> $ yarn <br>
+> $ yarn start <br>
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Before start 
 
